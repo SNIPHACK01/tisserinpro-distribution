@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "2.0",
-  "lien": "https://github.com/SNIPHACK01/tisserinpro-distribution/releases/download/2.0/TisserinPro-2.0.apk",
-  "message": "",
+  "versionCode": 3,
+  "versionName": "2.1",
+  "lien": "https://github.com/SNIPHACK01/tisserinpro-distribution/releases/download/2.1/TisserinPro-2.1.apk",
+  "message": "Nouveau : la mesure « Longueur chemise ». Vos commandes et mesures sont conservées.",
   "tutoriel": ""
 }
