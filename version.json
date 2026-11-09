@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "2.2",
-  "lien": "https://github.com/SNIPHACK01/tisserinpro-distribution/releases/download/2.2/TisserinPro-2.2.apk",
+  "versionCode": 5,
+  "versionName": "2.3",
+  "lien": "https://github.com/SNIPHACK01/tisserinpro-distribution/releases/download/2.3/TisserinPro-2.3.apk",
   "message": "Nouveau : Les champs non renseignés sont bien indexés et avec la voix.",
   "tutoriel": ""
 }
